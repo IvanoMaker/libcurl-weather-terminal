@@ -1,6 +1,6 @@
 # C++ Text-Based Weather App Using libcurl
 
-This is a command-line weather application written in modern C++ that uses [libcurl](https://curl.se/libcurl/) to fetch weather data based on a U.S. ZIP code. It uses the [Zippopotam.us API](http://api.zippopotam.us/) to convert ZIP codes to latitude and longitude, and the [OpenWeatherMap API](https://openweathermap.org/current) to retrieve current weather conditions.
+This is a command-line weather application written in C++ that uses [libcurl](https://curl.se/libcurl/) to fetch weather data based on a U.S. ZIP code. It uses the [Zippopotam.us API](http://api.zippopotam.us/) to convert ZIP codes to latitude and longitude, and the [OpenWeatherMap API](https://openweathermap.org/current) to retrieve current weather conditions.
 
 ---
 
