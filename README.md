@@ -4,7 +4,7 @@ This is a command-line weather application written in C++ that uses [libcurl](ht
 
 ---
 
-## 📦 Features
+##  Features
 
 - Fetches city, state, and country from a U.S. ZIP code
 - Gets live weather data including:
@@ -18,7 +18,7 @@ This is a command-line weather application written in C++ that uses [libcurl](ht
 
 ---
 
-## 🧰 Requirements
+##  Requirements
 
 - [MSYS2](https://www.msys2.org/) with MinGW 64-bit environment
 - libcurl (included with MSYS2 via `pacman -S mingw-w64-x86_64-curl`)
@@ -27,7 +27,7 @@ This is a command-line weather application written in C++ that uses [libcurl](ht
 
 ---
 
-## 🔧 Setup
+##  Setup
 
 1. **Clone or download the project.**
 
@@ -42,7 +42,7 @@ This is a command-line weather application written in C++ that uses [libcurl](ht
 
 ---
 
-## 🚀 Build and Run
+##  Build and Run
 
 ### 🛠️ Compile
 
@@ -57,7 +57,7 @@ This will:
 
 ---
 
-⚠️ Notes & Limitations
+ Notes & Limitations
 - The JSON is parsed using a simple manual string search (extractJSONValue). For robust projects, consider using a dedicated json parser.
 - Only U.S. ZIP codes are supported via the Zippopotam.us API.
 - This project assumes valid and well-formed API responses.
