@@ -44,7 +44,7 @@ This is a command-line weather application written in C++ that uses [libcurl](ht
 
 ##  Build and Run
 
-### 🛠️ Compile
+### Compile
 
 Use the provided `compile.bat` (Windows only with MSYS2):
 ```bash
